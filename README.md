@@ -11,4 +11,4 @@ This notebook is not about training on your own data. However, this notebook int
 5. __Boxing around the objects__
 6. __Boxing in Video and output the video__
 
-<img src='./capture.png' alt='capture image'/>
+<img src='./capture.PNG' alt='capture image'/>
